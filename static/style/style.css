@@ -14,4 +14,8 @@
     font-weight: 400;
 }
 
+html {
+    font-size: 62.5%;
+}
+
 /*End styles apply to muliple elements*/
